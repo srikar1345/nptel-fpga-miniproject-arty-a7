@@ -132,10 +132,14 @@ This project demonstrates:
 - IP core integration
 - Debugging and testing methodologies
 - System integration concepts
+### Output Waveform
 
+![Output waveform captured using ILA in Vivado](images/output_waveform.jpg)
 ## Contributing
 This is an academic project completed as part of the NPTEL FPGA Architecture and Programming course. The project serves as a learning resource for FPGA design and digital system implementation.
+### FPGA Board with Data LED Glowing
 
+![Arty A7 FPGA board showing data LED glowing](images/arty_a7_led.jpg)
 ## License
 This project is created for educational purposes as part of the NPTEL course curriculum.
 
