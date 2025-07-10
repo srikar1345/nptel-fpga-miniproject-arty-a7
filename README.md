@@ -140,10 +140,6 @@ This is an academic project completed as part of the NPTEL FPGA Architecture and
 ### FPGA Board with Data LED Glowing
 
 ![Arty A7 FPGA board showing data LED glowing](ouput.jpg)
-## License
-This project is created for educational purposes as part of the NPTEL course curriculum.
-
----
 
 ## Note on Output Behavior
 In some cases, you may observe that the output remains the same regardless of the input provided via VIO. This can occur if:
