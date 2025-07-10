@@ -5,8 +5,7 @@ This project implements a digital system using FPGA architecture and programming
 
 ## Course Information
 - **Course**: NPTEL FPGA Architecture and Programming
-- **Institution**: NIT Calicut
-- **Project Type**: Mini Project
+
 
 ## Project Components
 
@@ -139,9 +138,6 @@ This is an academic project completed as part of the NPTEL FPGA Architecture and
 
 ## License
 This project is created for educational purposes as part of the NPTEL course curriculum.
-
-## Contact
-For questions regarding this project, please refer to the course materials or contact the course instructors at NIT Calicut.
 
 ---
 
