@@ -134,12 +134,12 @@ This project demonstrates:
 - System integration concepts
 ### Output Waveform
 
-![Output waveform captured using ILA in Vivado](withinput0.jpg)
+![Output waveform captured using ILA in Vivado](prie.jpg)
 ## Contributing
 This is an academic project completed as part of the NPTEL FPGA Architecture and Programming course. The project serves as a learning resource for FPGA design and digital system implementation.
 ### FPGA Board with Data LED Glowing
 
-![Arty A7 FPGA board showing data LED glowing](dataoutputbeingshownonanLED.jpg)
+![Arty A7 FPGA board showing data LED glowing](ouput.jpg)
 ## License
 This project is created for educational purposes as part of the NPTEL course curriculum.
 
